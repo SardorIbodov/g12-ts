@@ -1,0 +1,1 @@
+export const header = document.getElementById("HEADER") as HTMLHeadElement;
